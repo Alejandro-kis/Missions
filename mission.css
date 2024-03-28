@@ -1,0 +1,37 @@
+body {
+    background-color:blueviolet;
+    text-align:center;
+    background-image: url("https://i.kym-cdn.com/entries/icons/facebook/000/048/112/hell_naw_dog.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.button {
+align-items: center;
+display: flex;
+justify-content: center;
+border: 100px;
+margin: 5px;
+}
+
+.input {  
+display: flex;
+justify-content: center;
+border: 10px black;
+
+}
+
+h1 {
+text-align: center;
+color:  white;
+font-size: 40px;
+
+}
+div {
+color:  white;
+font-size: 25px;
+}
+p {
+color:  white;
+font-size: 25px; 
+}
